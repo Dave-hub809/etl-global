@@ -1,0 +1,22 @@
+# ETL Global S.A.S.
+
+> Compañía colombiana de comercio exterior: importaciones desde China, exportaciones, sourcing y logística internacional para emprendedores, pymes e industria.
+
+## Pages
+
+- [Inicio](/): Importaciones llave en mano, sourcing y logística internacional.
+- [Servicios](/servicios): Consultoría, sourcing, validación de proveedores, importaciones y exportaciones.
+- [Sectores](/sectores): Emprendedores, pymes, industria, distribuidores y manufactura.
+- [Nosotros](/nosotros): Misión, visión, valores y filosofía operativa de ETL Global.
+- [Blog](/blog): Guías de importación, exportación, aduanas y logística internacional.
+- [FAQ](/faq): Preguntas frecuentes sobre importar, exportar y operar comercio exterior.
+- [Contacto](/contacto): Solicita cotización de importación o exportación.
+
+## Blog
+
+- [Cómo importar desde China sin perder dinero](/blog/como-importar-desde-china-sin-perder-dinero): Guía paso a paso para una primera importación rentable.
+- [5 señales de proveedor confiable en Alibaba](/blog/5-senales-proveedor-confiable-alibaba): Criterios para evaluar fabricantes chinos.
+- [Aranceles, IVA e Incoterms al importar a Colombia](/blog/aranceles-iva-incoterms-costo-real-importar-colombia): Costo total puerta a puerta.
+- [FCL vs LCL](/blog/fcl-vs-lcl-cuando-conviene-cada-modalidad): Comparativa de modalidades marítimas.
+- [Exportar a Estados Unidos con producto colombiano](/blog/exportar-a-estados-unidos-producto-colombiano): Estrategia y normativa.
+- [Importación llave en mano: cuándo delegar](/blog/importacion-llave-en-mano-cuando-delegar): Decisiones según madurez del negocio.
